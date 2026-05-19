@@ -1,0 +1,21 @@
+# Delphi build output
+Win32/
+Win64/
+*.dcu
+*.exe
+*.identcache
+*.local
+*.~*
+*.dsk
+*.tvsconfig
+__history/
+__recovery/
+Backup/
+
+# Runtime data
+Data/*.db
+Data/*.db-journal
+
+# IDE
+*.bak
+*.stat
