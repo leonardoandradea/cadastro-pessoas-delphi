@@ -101,6 +101,3 @@ seguem o padrão **CAIXA ALTA**.
   a View distinguir erro de usuário de erro de sistema.
 - **Auto-setup do banco** na primeira execução via `script.sql`.
 
-## Licença
-
-Projeto desenvolvido para fins acadêmicos.
